@@ -1,3 +1,6 @@
-3. Run the script:
+1. opencv-python
+2. mediapipe
+3. keyboard
+4. Run the script:
 pip install opencv-python mediapipe keyboard
 pip install --user opencv-python mediapipe keyboard
